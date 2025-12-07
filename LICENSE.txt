@@ -1,0 +1,28 @@
+LLICÈNCIA ACADÈMICA
+
+Copyright (c) 2024 Toni Carballo - IOC (Institut Obert de Catalunya)
+
+Aquest projecte ha estat desenvolupat com a part del Curs d'Especialització en 
+Intel·ligència Artificial i Big Data (CE IABD) de l'IOC.
+
+CONDICIONS D'ÚS:
+
+1. Aquest programari es proporciona únicament amb fins educatius i acadèmics.
+
+2. Es permet l'ús, còpia i modificació d'aquest codi per a:
+   - Aprenentatge personal
+   - Investigació acadèmica
+   - Referència educativa
+
+3. NO es permet l'ús comercial sense autorització expressa de l'autor.
+
+4. Qualsevol distribució o publicació d'aquest codi o derivats ha d'incloure:
+   - Atribució a l'autor original
+   - Aquesta nota de llicència
+   - Referència al projecte original
+
+5. El programari es proporciona "TAL COM ÉS", sense garanties de cap tipus.
+
+CONTACTE:
+Per a consultes sobre l'ús comercial o altres permisos, contactar amb l'autor.
+
